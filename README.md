@@ -1,3 +1,5 @@
+![logo](logo.png)
+
 # Coronium ChatterBox Standalone
 
 ## Running
