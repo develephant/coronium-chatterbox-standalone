@@ -23,16 +23,7 @@ To start the __Coronium ChatterBox__ server:
 chatterbox path/to/config.lua
 ```
 
-You can access the server with your ip using the __Coronium ChatterBox Plugin__ available on the __[Corona Marketplace](https://marketplace.coronalabs.com)__.
+## Documentation
 
-You can test if the server is operating using __telnet__:
+[https://develephant.github.io/coronium-chatterbox-docs](https://develephant.github.io/coronium-chatterbox-docs)
 
-```
-telnet <your-ip> 7175
-```
-
-The server should respond with:
-
-```
-{"_handshake"=1}
-```
